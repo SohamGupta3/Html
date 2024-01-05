@@ -6,8 +6,11 @@
     <title>Document</title>
 </head>
 <body>
-   <img src="./image123.png" alt="photo">
+   <img src="image123.jpg"
+     width="300px" height="400px">
     <h1>Soham Gupta</h1>
+    <h2> Contact number-123456</h2>
+    <h2>E-mail=abc@gmail.com</h2>
     <h2> Graduation</h2>
     <h4> 
      B.Tech in ECE
